@@ -1,0 +1,58 @@
+export const list = [
+  {
+    id: 1,
+    brand: "Mobil",
+    name: "DTE 10 Excel 100",
+    sku: "SKU: 130833",
+    price: 23.33,
+  },
+  {
+    id: 2,
+    brand: "Mobil",
+    name: "DTE 10 Excel 100",
+    sku: "SKU: 130833",
+    price: 23.33,
+  },
+  {
+    id: 3,
+    brand: "Mobil",
+    name: "DTE 10 Excel 100",
+    sku: "SKU: 130833",
+    price: 23.33,
+  },
+  {
+    id: 4,
+    brand: "Mobil",
+    name: "DTE 10 Excel 100",
+    sku: "SKU: 130833",
+    price: 23.33,
+  },
+  {
+    id: 5,
+    brand: "Mobil",
+    name: "DTE 10 Excel 100",
+    sku: "SKU: 130833",
+    price: 23.33,
+  },
+  {
+    id: 6,
+    brand: "Mobil",
+    name: "DTE 10 Excel 100",
+    sku: "SKU: 130833",
+    price: 23.33,
+  },
+  {
+    id: 7,
+    brand: "Mobil",
+    name: "DTE 10 Excel 100",
+    sku: "SKU: 130833",
+    price: 23.33,
+  },
+  {
+    id: 8,
+    brand: "Mobil",
+    name: "DTE 10 Excel 100",
+    sku: "SKU: 130833",
+    price: 23.33,
+  },
+];
