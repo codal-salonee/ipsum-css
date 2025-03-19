@@ -22,7 +22,9 @@ export default function Product({ brand, name, sku, price }: IProduct) {
       </div>
       <div className="order-1 md:order-2">
         <p className="my-3 text-sm font-semibold">{brand}</p>
-        <h2 className="mb-12 font-semibold lg:text-2xl lg:font-bold">{name}</h2>
+        <h2 className="mb-12 line-clamp-1 font-semibold lg:text-2xl lg:font-bold">
+          {name}
+        </h2>
       </div>
       <div className="order-3">
         <div className="mb-4 items-center text-sm lg:flex lg:text-base">

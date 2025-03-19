@@ -11,7 +11,7 @@ export default function SortBy() {
     <div className="my-8 flex items-center justify-between gap-4 lg:my-0">
       <h2 className="text-base font-semibold">Sort By:</h2>
       <Select>
-        <SelectTrigger className="w-[180px] py-4">
+        <SelectTrigger className="h-12 w-[180px] py-4">
           <SelectValue placeholder="Price: Hight to low" />
         </SelectTrigger>
         <SelectContent>

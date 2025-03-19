@@ -2,7 +2,7 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 
 export default function Pagination() {
   return (
-    <div className="flex items-center text-sm">
+    <div className="flex h-12 items-center text-sm">
       <button className="border-light-gray border border-r-0 px-3 py-3.5">
         <ChevronLeft size={20} />
       </button>

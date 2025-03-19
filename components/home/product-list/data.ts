@@ -9,7 +9,7 @@ export const list = [
   {
     id: 2,
     brand: "Mobil",
-    name: "DTE 10 Excel 100",
+    name: "DTE 10 Excel 100 DTE 10 Excel 100 DTE 10 Excel 100 DTE 10 Excel 100",
     sku: "SKU: 130833",
     price: 23.33,
   },

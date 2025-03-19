@@ -1,3 +1,5 @@
+"use client";
+
 import {
   Sheet,
   SheetContent,
@@ -29,8 +31,10 @@ export default function MobileFilter() {
           <SheetDescription className="sr-only">
             Sorting and Filtering options
           </SheetDescription>
-          <SortBy />
-          <Filter mobile />
+          <div className="h-dvh overflow-y-auto lg:h-auto">
+            <SortBy />
+            <Filter mobile />
+          </div>
         </SheetHeader>
       </SheetContent>
     </Sheet>
